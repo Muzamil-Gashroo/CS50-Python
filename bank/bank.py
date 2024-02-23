@@ -1,3 +1,5 @@
+//
+
 abc = input("Greetings :").strip().lower()
 
 if abc[0:5] == "hello":
@@ -7,7 +9,7 @@ elif abc[0] == "h":
 else:
    print("$100")
 
-
+// 
 
 
 
