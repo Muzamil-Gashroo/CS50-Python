@@ -3,6 +3,7 @@
 coke_price = int(50)
 
 while coke_price > 0:
+    
     amount_msg = print("Amount Due: " + str(coke_price))
     insert_coin = int(input("Insert Coin: "))
 
