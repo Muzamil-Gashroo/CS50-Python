@@ -1,4 +1,4 @@
-#check50 cs50/problems/2022/python/playback
+
 
 a ="This is CS50"
 print(a.replace(" ","..."))
