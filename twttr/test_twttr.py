@@ -7,6 +7,7 @@ def main():
 
 
 def test_upr_lower_cases():
+
     assert shorten("twitter") == "twttr"
     assert shorten("TWITTER") == "TWTTR"
     assert shorten("TwItTeR") == "TwtTR"
