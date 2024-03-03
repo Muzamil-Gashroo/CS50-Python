@@ -1,8 +1,4 @@
 
-
-
-
-
 list = ["42",'forty two','forty-two']
 
 def main():
