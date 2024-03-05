@@ -10,14 +10,6 @@ c ="Let's implement a function called hello"
 print(c.replace(" ","..."))
 
 
-
-
-
-
-
-
-
-
-
+
 
 
